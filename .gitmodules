@@ -1,3 +1,6 @@
 [submodule "helper"]
 	path = helper
 	url = https://github.com/liumenggit/dcat-helper.git
+[submodule "ace"]
+	path = ace
+	url = https://github.com/liumenggit/dcat-ace.git
